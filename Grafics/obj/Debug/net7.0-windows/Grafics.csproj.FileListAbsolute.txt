@@ -1,0 +1,15 @@
+C:\Users\disrct\Desktop\WinForms\Grafics\bin\Debug\net7.0-windows\Grafics.exe
+C:\Users\disrct\Desktop\WinForms\Grafics\bin\Debug\net7.0-windows\Grafics.deps.json
+C:\Users\disrct\Desktop\WinForms\Grafics\bin\Debug\net7.0-windows\Grafics.runtimeconfig.json
+C:\Users\disrct\Desktop\WinForms\Grafics\bin\Debug\net7.0-windows\Grafics.dll
+C:\Users\disrct\Desktop\WinForms\Grafics\bin\Debug\net7.0-windows\Grafics.pdb
+C:\Users\disrct\Desktop\WinForms\Grafics\obj\Debug\net7.0-windows\Grafics.csproj.AssemblyReference.cache
+C:\Users\disrct\Desktop\WinForms\Grafics\obj\Debug\net7.0-windows\Grafics.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\disrct\Desktop\WinForms\Grafics\obj\Debug\net7.0-windows\Grafics.AssemblyInfoInputs.cache
+C:\Users\disrct\Desktop\WinForms\Grafics\obj\Debug\net7.0-windows\Grafics.AssemblyInfo.cs
+C:\Users\disrct\Desktop\WinForms\Grafics\obj\Debug\net7.0-windows\Grafics.csproj.CoreCompileInputs.cache
+C:\Users\disrct\Desktop\WinForms\Grafics\obj\Debug\net7.0-windows\Grafics.dll
+C:\Users\disrct\Desktop\WinForms\Grafics\obj\Debug\net7.0-windows\refint\Grafics.dll
+C:\Users\disrct\Desktop\WinForms\Grafics\obj\Debug\net7.0-windows\Grafics.pdb
+C:\Users\disrct\Desktop\WinForms\Grafics\obj\Debug\net7.0-windows\Grafics.genruntimeconfig.cache
+C:\Users\disrct\Desktop\WinForms\Grafics\obj\Debug\net7.0-windows\ref\Grafics.dll

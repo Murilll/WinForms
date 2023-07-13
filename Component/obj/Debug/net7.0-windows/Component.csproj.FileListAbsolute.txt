@@ -1,0 +1,15 @@
+C:\Users\disrct\Desktop\WinForms\Component\bin\Debug\net7.0-windows\Component.exe
+C:\Users\disrct\Desktop\WinForms\Component\bin\Debug\net7.0-windows\Component.deps.json
+C:\Users\disrct\Desktop\WinForms\Component\bin\Debug\net7.0-windows\Component.runtimeconfig.json
+C:\Users\disrct\Desktop\WinForms\Component\bin\Debug\net7.0-windows\Component.dll
+C:\Users\disrct\Desktop\WinForms\Component\bin\Debug\net7.0-windows\Component.pdb
+C:\Users\disrct\Desktop\WinForms\Component\obj\Debug\net7.0-windows\Component.csproj.AssemblyReference.cache
+C:\Users\disrct\Desktop\WinForms\Component\obj\Debug\net7.0-windows\Component.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\disrct\Desktop\WinForms\Component\obj\Debug\net7.0-windows\Component.AssemblyInfoInputs.cache
+C:\Users\disrct\Desktop\WinForms\Component\obj\Debug\net7.0-windows\Component.AssemblyInfo.cs
+C:\Users\disrct\Desktop\WinForms\Component\obj\Debug\net7.0-windows\Component.csproj.CoreCompileInputs.cache
+C:\Users\disrct\Desktop\WinForms\Component\obj\Debug\net7.0-windows\Component.dll
+C:\Users\disrct\Desktop\WinForms\Component\obj\Debug\net7.0-windows\refint\Component.dll
+C:\Users\disrct\Desktop\WinForms\Component\obj\Debug\net7.0-windows\Component.pdb
+C:\Users\disrct\Desktop\WinForms\Component\obj\Debug\net7.0-windows\Component.genruntimeconfig.cache
+C:\Users\disrct\Desktop\WinForms\Component\obj\Debug\net7.0-windows\ref\Component.dll

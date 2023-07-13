@@ -1,0 +1,15 @@
+C:\Users\disrct\Desktop\WinForms\ArrastarEColor\bin\Debug\net7.0-windows\ArrastarEColor.exe
+C:\Users\disrct\Desktop\WinForms\ArrastarEColor\bin\Debug\net7.0-windows\ArrastarEColor.deps.json
+C:\Users\disrct\Desktop\WinForms\ArrastarEColor\bin\Debug\net7.0-windows\ArrastarEColor.runtimeconfig.json
+C:\Users\disrct\Desktop\WinForms\ArrastarEColor\bin\Debug\net7.0-windows\ArrastarEColor.dll
+C:\Users\disrct\Desktop\WinForms\ArrastarEColor\bin\Debug\net7.0-windows\ArrastarEColor.pdb
+C:\Users\disrct\Desktop\WinForms\ArrastarEColor\obj\Debug\net7.0-windows\ArrastarEColor.csproj.AssemblyReference.cache
+C:\Users\disrct\Desktop\WinForms\ArrastarEColor\obj\Debug\net7.0-windows\ArrastarEColor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\disrct\Desktop\WinForms\ArrastarEColor\obj\Debug\net7.0-windows\ArrastarEColor.AssemblyInfoInputs.cache
+C:\Users\disrct\Desktop\WinForms\ArrastarEColor\obj\Debug\net7.0-windows\ArrastarEColor.AssemblyInfo.cs
+C:\Users\disrct\Desktop\WinForms\ArrastarEColor\obj\Debug\net7.0-windows\ArrastarEColor.csproj.CoreCompileInputs.cache
+C:\Users\disrct\Desktop\WinForms\ArrastarEColor\obj\Debug\net7.0-windows\ArrastarEColor.dll
+C:\Users\disrct\Desktop\WinForms\ArrastarEColor\obj\Debug\net7.0-windows\refint\ArrastarEColor.dll
+C:\Users\disrct\Desktop\WinForms\ArrastarEColor\obj\Debug\net7.0-windows\ArrastarEColor.pdb
+C:\Users\disrct\Desktop\WinForms\ArrastarEColor\obj\Debug\net7.0-windows\ArrastarEColor.genruntimeconfig.cache
+C:\Users\disrct\Desktop\WinForms\ArrastarEColor\obj\Debug\net7.0-windows\ref\ArrastarEColor.dll
