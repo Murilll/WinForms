@@ -1,0 +1,15 @@
+C:\Users\disrct\Desktop\WinForms\Spretes\bin\Debug\net7.0-windows\Spretes.exe
+C:\Users\disrct\Desktop\WinForms\Spretes\bin\Debug\net7.0-windows\Spretes.deps.json
+C:\Users\disrct\Desktop\WinForms\Spretes\bin\Debug\net7.0-windows\Spretes.runtimeconfig.json
+C:\Users\disrct\Desktop\WinForms\Spretes\bin\Debug\net7.0-windows\Spretes.dll
+C:\Users\disrct\Desktop\WinForms\Spretes\bin\Debug\net7.0-windows\Spretes.pdb
+C:\Users\disrct\Desktop\WinForms\Spretes\obj\Debug\net7.0-windows\Spretes.csproj.AssemblyReference.cache
+C:\Users\disrct\Desktop\WinForms\Spretes\obj\Debug\net7.0-windows\Spretes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\disrct\Desktop\WinForms\Spretes\obj\Debug\net7.0-windows\Spretes.AssemblyInfoInputs.cache
+C:\Users\disrct\Desktop\WinForms\Spretes\obj\Debug\net7.0-windows\Spretes.AssemblyInfo.cs
+C:\Users\disrct\Desktop\WinForms\Spretes\obj\Debug\net7.0-windows\Spretes.csproj.CoreCompileInputs.cache
+C:\Users\disrct\Desktop\WinForms\Spretes\obj\Debug\net7.0-windows\Spretes.dll
+C:\Users\disrct\Desktop\WinForms\Spretes\obj\Debug\net7.0-windows\refint\Spretes.dll
+C:\Users\disrct\Desktop\WinForms\Spretes\obj\Debug\net7.0-windows\Spretes.pdb
+C:\Users\disrct\Desktop\WinForms\Spretes\obj\Debug\net7.0-windows\Spretes.genruntimeconfig.cache
+C:\Users\disrct\Desktop\WinForms\Spretes\obj\Debug\net7.0-windows\ref\Spretes.dll
